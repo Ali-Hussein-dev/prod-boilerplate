@@ -63,5 +63,21 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Ali-Hussein-dev/prod-boilerplate"
-  }
+  },
+  "keyword": [
+    "nextjs",
+    "react",
+    "tailwindcss",
+    "tailwind",
+    "chkakra",
+    "chkakra-ui",
+    "typescript",
+    "boilerplate",
+    "starter-kit",
+    "starter",
+    "jest",
+    "eslint",
+    "react-icons",
+    "prettier"
+  ]
 }
