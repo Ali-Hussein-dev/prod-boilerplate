@@ -20,13 +20,13 @@
     "terminal.brightWhite": "#0a6c7e",
     "terminal.background": "#1c0c28",
     "terminal.foreground": "#babab9",
-    "statusBar.background": "#2a95d5",
-    "statusBar.foreground": "#e7e7e7",
-    "statusBarItem.hoverBackground": "#55aadd",
-    "titleBar.activeBackground": "#2a95d5",
-    "titleBar.activeForeground": "#e7e7e7",
-    "titleBar.inactiveBackground": "#2a95d599",
-    "titleBar.inactiveForeground": "#e7e7e799"
+    "statusBar.background": "#50a080",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#3f7e65",
+    "titleBar.activeBackground": "#50a080",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#50a08099",
+    "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#2a95d5"
+  "peacock.color": "#50a080"
 }
