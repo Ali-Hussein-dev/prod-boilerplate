@@ -4,7 +4,8 @@
     "baseUrl": "./",
     "paths": {
       "@/components/*": ["src/components/*"],
-      "@/pages/*": ["src/pages/*"]
+      "@/pages/*": ["src/pages/*"],
+      "@/test/*": ["test/*"]
     },
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
